@@ -18,7 +18,7 @@ for(i=-n ; i<=n ; i++)
         }
         else
         {
-            string+="-"
+            string+=" "
         }
     }
     string+="\n";

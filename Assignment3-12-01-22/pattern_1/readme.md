@@ -2,6 +2,9 @@
 # Patterns
 # P-1
 
+Input:
+5
+
 Output:
 O00000000000O
 O54321     1O
